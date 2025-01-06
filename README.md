@@ -117,5 +117,5 @@ O projeto **ComunicacoWevSocketClient---Client_side_CMD** é um cliente desenvol
 
 O projeto **ComunicacoWevSocketClient---Client_side_CMD** demonstra como criar um cliente leve e eficiente para comunicação em tempo real via WebSocket. Ele é uma base sólida para soluções mais complexas e pode ser facilmente adaptado para diversas aplicações que requerem interação em tempo real.
 
-**Agradecimentos:** Este projeto foi desenvolvido para explorar a implementação de comunicação cliente-servidor utilizando WebSocket em aplicações de linha de comando.
+**Agradecimentos:** Este projeto foi desenvolvido para explorar a implementação de comunicação cliente-servidor utilizando WebSocket em aplicações de linha de comando.  
 
